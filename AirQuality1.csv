@@ -1,0 +1,15 @@
+Unique ID,Indicator ID,Name,Measure,Measure Info,Geo Type Name,Geo Join ID,Geo Place Name,Time Period,Start_Date,Data Value
+179772,640,Boiler Emissions- Total SO2 Emissions,Number per km2,number,UHF42,409,Southeast Queens,2015,01-01-2015,0.3
+179785,640,Boiler Emissions- Total SO2 Emissions,Number per km2,number,UHF42,209,Bensonhurst - Bay Ridge,2015,01-01-2015,1.2
+178540,365,Fine particles (PM 2.5),Mean,mcg/m3,UHF42,209,Bensonhurst - Bay Ridge,Annual Average 2012,12-01-2011,8.6
+178561,365,Fine particles (PM 2.5),Mean,mcg/m3,UHF42,409,Southeast Queens,Annual Average 2012,12-01-2011,8
+823217,365,Fine particles (PM 2.5),Mean,mcg/m3,UHF42,409,Southeast Queens,Summer 2022,06-01-2022,6.1
+177910,365,Fine particles (PM 2.5),Mean,mcg/m3,UHF42,209,Bensonhurst - Bay Ridge,Summer 2012,06-01-2012,10
+177952,365,Fine particles (PM 2.5),Mean,mcg/m3,UHF42,209,Bensonhurst - Bay Ridge,Summer 2013,06-01-2013,9.8
+177973,365,Fine particles (PM 2.5),Mean,mcg/m3,UHF42,409,Southeast Queens,Summer 2013,06-01-2013,9.8
+177931,365,Fine particles (PM 2.5),Mean,mcg/m3,UHF42,409,Southeast Queens,Summer 2012,06-01-2012,9.6
+742274,365,Fine particles (PM 2.5),Mean,mcg/m3,UHF42,410,Rockaways,Summer 2021,06-01-2021,7.2
+178582,365,Fine particles (PM 2.5),Mean,mcg/m3,UHF42,209,Bensonhurst - Bay Ridge,Annual Average 2013,12-01-2012,8.2
+178583,365,Fine particles (PM 2.5),Mean,mcg/m3,UHF42,210,Coney Island - Sheepshead Bay,Annual Average 2013,12-01-2012,8.1
+547477,365,Fine particles (PM 2.5),Mean,mcg/m3,UHF42,409,Southeast Queens,Annual Average 2017,01-01-2017,6.8
+547417,365,Fine particles (PM 2.5),Mean,mcg/m3,UHF42,210,Coney Island - Sheepshead Bay,Annual Average 2017,01-01-2017,6.8
